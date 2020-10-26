@@ -1,5 +1,5 @@
-let Victoria Cen Wu = "owner name"
-let victoriac5469 = "username";
+let Victoria Cen Wu = "Your Name"
+let victoriac5469 = "YourUsername";
 
 document.querySelectorAll(".owner-name").forEach((e) => {
     e.innerHTML = ownerName;
